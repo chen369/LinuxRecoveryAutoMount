@@ -1,11 +1,12 @@
-# LinuxAutoinstallers
-Here you can find some auto installers for linux I've made.
+# LinuxAutoMount
+Its a Pain having to do Repeated Steps Over and Over.
+
 
 # Usage
-Wordpress autoinstaller
+AutoMount
 ```
-wget https://raw.githubusercontent.com/RickB2000/LinuxAutoinstallers/master/wp_install.sh -O wp_install.sh
-chmod +x wp_install.sh
-./wp_install.sh [directory] [mysql_db] [mysql_user] [mysql_password]
+wget https://raw.githubusercontent.com/chen369/LinuxRecoveryAutoMount/master/Mount.sh -O Mount.sh
+chmod +x Mount.sh
+./Mount.sh
 ```
 Now Wordpress will be installed.
