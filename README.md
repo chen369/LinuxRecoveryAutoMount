@@ -8,4 +8,4 @@ AutoMount
  curl -L https://raw.githubusercontent.com/chen369/LinuxRecoveryAutoMount/master/Mount.sh | bash
 
 ```
-Now Wordpress will be installed.
+Now HDD is mounted.
