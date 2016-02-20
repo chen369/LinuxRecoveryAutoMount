@@ -7,7 +7,7 @@ echo "#                                   #"
 echo "#####################################"
 
 mkdir /mnt/hdd/
-mount -t ext4 /dev/mapper/server--vg-root /mnt/hdd/
+mount -t ext4 /dev/mapper/s81947--vg-root /mnt/hdd/
 clear
 
 echo "#####################################"
